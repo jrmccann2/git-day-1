@@ -4,4 +4,6 @@
  * In each unit folder, create a folder for each day (day-1, day-2, etc)
  * 
  * Try to use only the command line (bash)
+ * 
+ * You should see this after you pull
  */
